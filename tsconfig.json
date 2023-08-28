@@ -6,6 +6,8 @@
     "strict": true,
     "esModuleInterop": true,
     "isolatedModules": true,
-    "outDir": "lib"
+    "outDir": "lib",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
   },
 }
